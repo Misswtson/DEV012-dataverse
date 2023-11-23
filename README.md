@@ -26,21 +26,21 @@ El proyecto se ha desarrollado utilizando HTML semántico, CSS y JavaScript (van
 
 Nos enfocamos en las necesidades de nuestra usuaria y de allí partimos con las siguientes tareas:
 
-1- Como usuario quiero  poder ver los modelos  de zapatos pertenecientes al estilo Altheisure en forma de tarjetas.**
+1- Como usuario quiero  poder ver los modelos  de zapatos pertenecientes al estilo Altheisure en forma de tarjetas.
 
-2- Como usuario quiero poder filtrar los modelos de la marca de zapatos por medio de un desplegable.**
+2- Como usuario quiero poder filtrar los modelos de la marca de zapatos por medio de un desplegable.
 
-3- Como usuario quiero poder filtrar los  zapatos teniendo en cuenta su color  por medio de un desplegable.**
+3- Como usuario quiero poder filtrar los  zapatos teniendo en cuenta su color  por medio de un desplegable.
 
-4- Como usuario quiero filtrar y ordenar la información de los zapatos de forma simultánea para tener una vista de los modelos y colores que quiero.**
+4- Como usuario quiero filtrar y ordenar la información de los zapatos de forma simultánea para tener una vista de los modelos y colores que quiero.
 
-5- Como usuario quiero tener un contador que indique cuantos modelos están en pantalla.**
+5- Como usuario quiero tener un contador que indique cuantos modelos están en pantalla.
 
-6- Como usuario quiero poder tener un desplegable que me permita ordenar  los modelos de la marca de zapatos de forma ascendente y descendente.**
+6- Como usuario quiero poder tener un desplegable que me permita ordenar  los modelos de la marca de zapatos de forma ascendente y descendente.
 
-7- Como usuario registrado quiero tener una página responsive para poder interactuar desde cualquier dispositivo.**
+7- Como usuario registrado quiero tener una página responsive para poder interactuar desde cualquier dispositivo.
 
-8- Como usuario registrado quiero tener un botón que me permita restablecer la información sin actualizar la página.**
+8- Como usuario registrado quiero tener un botón que me permita restablecer la información sin actualizar la página.
 
 ## 3. Creación del (Dataset) mediante el uso del prompting y la IA
 
